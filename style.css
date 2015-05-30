@@ -1,0 +1,40 @@
+.concept-title {
+  font-size: 20px;
+  margin: 4px;
+  text-align: center;
+  color: #294860;
+}
+
+p {
+	color: black;
+	padding-left: .5em;
+}
+
+h1 {
+	text-align: center;
+	color: #294860;
+}
+h2 {
+	color: white;
+	padding-left: 1.5em;
+	padding-top: 1em;
+}
+.lesson {
+	background-color: #81C5F0;
+	border-radius: 40px 40px;
+	padding:10px;
+}
+
+.concept {
+	background-color: rgb(239, 222, 222);
+	padding: 4px;
+	margin: 10px;
+  border-radius: 15px;
+}
+
+li {
+	font-size: 20px;
+}
+ul {
+	list-style-type: none;
+}
